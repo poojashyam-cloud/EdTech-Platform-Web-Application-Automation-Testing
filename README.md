@@ -5,9 +5,11 @@
 * It validates core functionalities like login, navigation, and UI elements across multiple browsers. 
 
 **Tech Stack**
-* Python
-* Selenium
-* PyTest
+* Language: Python
+* Testing Framework: Pytest
+* Automation Tool: Selenium WebDriver
+* Design Pattern: Page Object Model (POM)
+* Reporting: Pytest HTML reports
 
 **Scope:**
 * Simulate real user interactions and validate UI behavior
