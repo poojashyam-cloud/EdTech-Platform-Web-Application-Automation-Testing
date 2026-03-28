@@ -1,0 +1,15 @@
+{
+
+  "url": "https://www.guvi.in/",
+  "browser": "chrome",
+
+  "valid_login": {
+    "email": "poojahepzy0@gmail.com",
+    "password": "Jesus4me#"
+  },
+  "invalid_login": {
+    "email": "invalid_user@example.com",
+    "password": "WrongPassword123"
+  }
+
+}

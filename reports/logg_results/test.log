@@ -1,0 +1,88 @@
+2026-03-28 15:32:49,765 - INFO - --Test 1 Title validation started--
+2026-03-28 15:32:50,144 - INFO - --Test passed--
+2026-03-28 15:33:04,847 - INFO - --Test 2 URL validation started--
+2026-03-28 15:33:05,213 - INFO - --Test passed
+2026-03-28 15:33:19,159 - INFO - --Test 3 Login button validation started--
+2026-03-28 15:33:19,954 - INFO - --Test passed--
+2026-03-28 15:33:33,837 - INFO - --Test 3 signup button validation started--
+2026-03-28 15:33:34,374 - INFO - --Test passed--
+2026-03-28 15:33:48,554 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 15:40:59,985 - INFO - --Test 1 Title validation started--
+2026-03-28 15:41:00,359 - INFO - --Test passed--
+2026-03-28 15:41:05,856 - INFO - --Test 2 URL validation started--
+2026-03-28 15:41:06,517 - INFO - --Test passed
+2026-03-28 15:41:12,229 - INFO - --Test 3 Login button validation started--
+2026-03-28 15:41:12,884 - INFO - --Test passed--
+2026-03-28 15:41:18,833 - INFO - --Test 3 signup button validation started--
+2026-03-28 15:41:19,985 - INFO - --Test passed--
+2026-03-28 15:41:26,010 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 16:23:44,807 - INFO - --Test 1 Title validation started--
+2026-03-28 16:23:45,353 - INFO - --Test passed--
+2026-03-28 16:23:51,422 - INFO - --Test 2 URL validation started--
+2026-03-28 16:23:52,063 - INFO - --Test passed
+2026-03-28 16:23:57,889 - INFO - --Test 3 Login button validation started--
+2026-03-28 16:23:58,512 - INFO - --Test passed--
+2026-03-28 16:24:05,460 - INFO - --Test 3 signup button validation started--
+2026-03-28 16:24:06,010 - INFO - --Test passed--
+2026-03-28 16:24:12,406 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 16:33:50,178 - INFO - --Test 1 Title validation started--
+2026-03-28 16:33:50,760 - INFO - --Test passed--
+2026-03-28 16:33:56,730 - INFO - --Test 2 URL validation started--
+2026-03-28 16:33:57,356 - INFO - --Test passed
+2026-03-28 16:34:03,568 - INFO - --Test 3 Login button validation started--
+2026-03-28 16:34:04,189 - INFO - --Test passed--
+2026-03-28 16:34:10,208 - INFO - --Test 3 signup button validation started--
+2026-03-28 16:34:10,846 - INFO - --Test passed--
+2026-03-28 16:34:15,457 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 16:43:36,379 - INFO - --Test 1 Title validation started--
+2026-03-28 16:43:36,800 - INFO - --Test passed--
+2026-03-28 16:43:43,198 - INFO - --Test 2 URL validation started--
+2026-03-28 16:43:43,688 - INFO - --Test passed
+2026-03-28 16:43:48,652 - INFO - --Test 3 Login button validation started--
+2026-03-28 16:43:50,614 - INFO - --Test passed--
+2026-03-28 16:43:57,286 - INFO - --Test 4 signup button validation started--
+2026-03-28 16:43:57,939 - INFO - --Test passed--
+2026-03-28 16:44:04,335 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 16:49:19,210 - INFO - --Test 1 Title validation started--
+2026-03-28 16:49:19,820 - INFO - --Test passed--
+2026-03-28 16:49:26,508 - INFO - --Test 2 URL validation started--
+2026-03-28 16:49:27,038 - INFO - --Test passed
+2026-03-28 16:49:33,265 - INFO - --Test 3 Login button validation started--
+2026-03-28 16:49:33,632 - INFO - --Test passed--
+2026-03-28 16:49:39,392 - INFO - --Test 4 signup button validation started--
+2026-03-28 16:49:40,116 - INFO - --Test passed--
+2026-03-28 16:49:46,135 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 16:52:57,278 - INFO - --Test 1 Title validation started--
+2026-03-28 16:52:57,859 - INFO - --Test passed--
+2026-03-28 16:53:03,599 - INFO - --Test 2 URL validation started--
+2026-03-28 16:53:04,298 - INFO - --Test passed
+2026-03-28 16:53:10,010 - INFO - --Test 3 Login button validation started--
+2026-03-28 16:53:10,692 - INFO - --Test passed--
+2026-03-28 16:53:16,547 - INFO - --Test 4 signup button validation started--
+2026-03-28 19:50:21,074 - INFO - --Test 1 Title validation started--
+2026-03-28 19:50:21,495 - INFO - --Test passed--
+2026-03-28 19:50:27,546 - INFO - --Test 2 URL validation started--
+2026-03-28 19:50:28,106 - INFO - --Test passed
+2026-03-28 19:50:34,618 - INFO - --Test 3 Login button validation started--
+2026-03-28 19:50:35,215 - INFO - --Test passed--
+2026-03-28 19:50:41,794 - INFO - --Test 4 signup button validation started--
+2026-03-28 19:50:42,497 - INFO - --Test passed--
+2026-03-28 19:50:50,078 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 20:00:29,439 - INFO - --Test 1 Title validation started--
+2026-03-28 20:00:29,836 - INFO - --Test passed--
+2026-03-28 20:00:37,045 - INFO - --Test 2 URL validation started--
+2026-03-28 20:00:37,456 - INFO - --Test passed
+2026-03-28 20:00:43,922 - INFO - --Test 3 Login button validation started--
+2026-03-28 20:00:44,411 - INFO - --Test passed--
+2026-03-28 20:00:50,677 - INFO - --Test 4 signup button validation started--
+2026-03-28 20:00:51,147 - INFO - --Test passed--
+2026-03-28 20:00:56,174 - INFO - --Test 4 Navigate to login page from signup page--
+2026-03-28 20:17:50,665 - INFO - --Test 1 Title validation started--
+2026-03-28 20:17:51,163 - INFO - --Test passed--
+2026-03-28 20:17:57,429 - INFO - --Test 2 URL validation started--
+2026-03-28 20:17:57,934 - INFO - --Test passed
+2026-03-28 20:18:04,229 - INFO - --Test 3 Login button validation started--
+2026-03-28 20:18:04,599 - INFO - --Test passed--
+2026-03-28 20:18:10,870 - INFO - --Test 4 signup button validation started--
+2026-03-28 20:18:11,399 - INFO - --Test passed--
+2026-03-28 20:18:17,771 - INFO - --Test 4 Navigate to login page from signup page--
